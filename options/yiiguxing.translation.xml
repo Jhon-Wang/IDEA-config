@@ -1,0 +1,24 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="实体" />
+      <item value="threshold" />
+      <item value="质检" />
+      <item value="power" />
+      <item value="utilities" />
+      <item value="mesh" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="MUST be a power of two" />
+      <item value="DEFAULT INITIAL CAPACITY" />
+      <item value="Delivery" />
+      <item value="Defines the timeout in milliseconds used when retrieving an instance of" />
+      <item value="use configuration classes provided 'org.apache.http.config' * and 'org.apache.http.client.config" />
+      <item value="前缀" />
+      <item value="NOT ASYNC" />
+      <item value="条件" />
+      <item value="时间间隔" />
+      <item value="品类采购" />
+      <item value="到货质检" />
+    </histories>
+  </component>
+</application>

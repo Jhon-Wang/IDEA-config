@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.44667372" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Atom One Dark" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="navi" />
+    <property name="LiveContextsPanel[0]" value="0.11331445" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="25" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="checkstyle&#10;git flo&#10;maven help&#10;git flow&#10;RESTful" />
+    <property name="SearchEveryWhereHistory" value="hashmap&#10;webmvcconfig&#10;iseq&#10;assertthat&#10;job" />
+    <property name="SettingsSearchHistory" value="sql&#10;tomcat" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="android-component-compatibility-check" value="1533629065324" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/settings.jar" />
+    <property name="file.gist.reindex.count" value="5036" />
+    <property name="fileTypeChangedCounter" value="20" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/Documents/software/gradle-4.9" />
+    <property name="lastTip" value="1" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop/idea插件" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+  </component>
+</application>

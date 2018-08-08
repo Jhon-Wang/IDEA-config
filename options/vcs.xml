@@ -1,0 +1,29 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://wangjunjun@stash.pagoda.com.cn/scm/unisqe/uniseq_micro_cgdd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/vfarcic/tdd-chapter-08/commits/branch/legacy-code" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://wangjunjun@stash.pagoda.com.cn/scm/unisqe/uniseq_trade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://wangjunjun@stash.pagoda.com.cn/scm/unisqe/uniseq_vendor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/MrWangJunjun/lambdaAction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/code/IdeaProjects" />
+  </component>
+</application>

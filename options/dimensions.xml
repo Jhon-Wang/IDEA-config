@@ -1,0 +1,61 @@
+<application>
+  <component name="DimensionService">
+    <location key="GitCloneDialog.0.0.1920.1080" x="747" y="584" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="1203" y="478" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="711" y="390" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="731" y="319" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="996" y="554" />
+    <location key="SettingsEditor.0.0.1920.1080" x="416" y="213" />
+    <location key="new project wizard.0.0.1920.1080" x="641" y="170" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1385" y="937" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="0" y="23" />
+    <location key="find.popup.0.0.1920.1080" x="818" y="182" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="398" y="213" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="718" y="460" />
+    <location key="#Project_Structure.0.0.1920.1080" x="423" y="133" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="749" y="261" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="541" y="275" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="433" y="277" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="642" y="360" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="620" y="284" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="693" y="428" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="185" y="118" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="705" y="411" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="659" y="358" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="420" y="480" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="820" y="291" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="778" y="378" />
+    <location key="StructurePopup.0.0.1920.1080" x="669" y="240" />
+    <location key="#Notifications.0.0.1920.1080" x="678" y="258" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1080" x="677" y="188" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="628" y="284" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="552" y="166" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1920.1080" x="836" y="472" />
+    <location key="git4idea.ui.GitResetDialog.0.0.1920.1080" x="652" y="440" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="108" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="892" height="286" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="892" height="286" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="892" height="286" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="892" height="286" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1816" height="359" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1816" height="359" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1816" height="359" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1816" height="359" />
+    <size key="find.popup.0.0.1920.1080" width="694" height="645" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1125" height="830" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1816" height="360" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1816" height="360" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1816" height="360" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1816" height="360" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="782" height="441" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="934" height="528" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" width="461" height="314" />
+    <size key="git4idea.merge.GitPullDialog.0.0.1920.1080" width="804" height="534" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1202" height="785" />
+    <size key="StructurePopup.0.0.1920.1080" width="538" height="640" />
+    <size key="#Project_Structure.0.0.1920.1080" width="1024" height="849" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1840" height="1057" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="1092" height="606" />
+    <size key="new project wizard.0.0.1920.1080" width="853" height="752" />
+  </component>
+</application>
